@@ -116,5 +116,11 @@
 // CRIMSON EDIT ADD START - Shop Inventories Additions
 		new /datum/data/vending_product("wallet", /obj/item/storage/wallet/darkpack, 25),
 		new /datum/data/vending_product("cloth", /obj/item/stack/sheet/cloth, 5),
+		new /datum/data/vending_product("beret", /obj/item/clothing/head/beret, 15),
+		new /datum/data/vending_product("mariniere", /obj/item/clothing/under/rank/civilian/mime, 60),
+		new /datum/data/vending_product("propeller hat", /obj/item/clothing/head/soft/propeller_hat, 25),
+		new /datum/data/vending_product("bow tie", /obj/item/clothing/neck/bowtie, 10),
+
 // CRIMSON EDIT ADD END - Shop Inventories Additions
 	)
+
