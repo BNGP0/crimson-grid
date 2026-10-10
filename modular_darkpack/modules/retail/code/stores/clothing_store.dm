@@ -79,9 +79,6 @@
 		new /datum/data/vending_product("brown coat", /obj/item/clothing/suit/vampire/coat,	15),
 		new /datum/data/vending_product("green coat", /obj/item/clothing/suit/vampire/coat/alt,	15),
 		new /datum/data/vending_product("jacket", /obj/item/clothing/suit/vampire/jacket,	15),
-		new /datum/data/vending_product("red jacket", /obj/item/clothing/suit/vampire/jacket/red, 15),
-		new /datum/data/vending_product("cropped black jacket", /obj/item/clothing/suit/vampire/jacket/cropped, 15),
-		new /datum/data/vending_product("cropped red jacket", /obj/item/clothing/suit/vampire/jacket/cropped/red, 15),
 		new /datum/data/vending_product("black coat", /obj/item/clothing/suit/vampire/coat/winter,	15),
 		new /datum/data/vending_product("red coat", /obj/item/clothing/suit/vampire/coat/winter/alt,	15),
 		new /datum/data/vending_product("yellow aviators", /obj/item/clothing/glasses/vampire/yellow,	20),
@@ -119,23 +116,11 @@
 // CRIMSON EDIT ADD START - Shop Inventories Additions
 		new /datum/data/vending_product("wallet", /obj/item/storage/wallet/darkpack, 25),
 		new /datum/data/vending_product("cloth", /obj/item/stack/sheet/cloth, 5),
-		new /datum/data/vending_product("baggy clothes", /obj/item/clothing/under/vampire/pinkman, 15),
-		new /datum/data/vending_product("blue baggy clothes", /obj/item/clothing/under/vampire/pinkman/blue, 15),
-		new /datum/data/vending_product("white baggy clothes", /obj/item/clothing/under/vampire/pinkman/white, 15),
-		new /datum/data/vending_product("brown baggy clothes", /obj/item/clothing/under/vampire/pinkman/brown, 15),
-		new /datum/data/vending_product("bootcut gray jeans", /obj/item/clothing/under/vampire/bootcut_jeans, 15),
-		new /datum/data/vending_product("stonewashed bootcut jeans", /obj/item/clothing/under/vampire/bootcut_jeans/stonewashed, 15),
-		new /datum/data/vending_product("blue bootcut jeans", /obj/item/clothing/under/vampire/bootcut_jeans/blue, 15),
-		new /datum/data/vending_product("gray tripp jeans", /obj/item/clothing/under/vampire/tripp_jeans, 15),
-		new /datum/data/vending_product("blue tripp jeans", /obj/item/clothing/under/vampire/tripp_jeans/blue, 15),
-		new /datum/data/vending_product("red tripp jeans", /obj/item/clothing/under/vampire/tripp_jeans/red, 15),
-		new /datum/data/vending_product("bomber jacket", /obj/item/clothing/suit/vampire/toggled/bomber_jacket, 25),
-		new /datum/data/vending_product("inverted bomber jacket", /obj/item/clothing/suit/vampire/toggled/bomber_jacket/inverted, 25),
-		new /datum/data/vending_product("plain brown jacket", /obj/item/clothing/suit/vampire/toggled/plain_jacket, 20),
-		new /datum/data/vending_product("plain black jacket", /obj/item/clothing/suit/vampire/toggled/plain_jacket/black, 20),
-		new /datum/data/vending_product("military jacket", /obj/item/clothing/suit/vampire/toggled/military_jacket, 25),
-		new /datum/data/vending_product("harness boots", /obj/item/clothing/shoes/vampire/harness_boots, 30),
-		new /datum/data/vending_product("brown harness boots", /obj/item/clothing/shoes/vampire/harness_boots/brown, 30),
-		new /datum/data/vending_product("wrist watch", /obj/item/watch, 20) // Crimson Edit Add - What time is it?
+		new /datum/data/vending_product("beret", /obj/item/clothing/head/beret, 15),
+		new /datum/data/vending_product("mariniere", /obj/item/clothing/under/rank/civilian/mime, 60),
+		new /datum/data/vending_product("propeller hat", /obj/item/clothing/head/soft/propeller_hat, 25),
+		new /datum/data/vending_product("bow tie", /obj/item/clothing/neck/bowtie, 10),
+
 // CRIMSON EDIT ADD END - Shop Inventories Additions
 	)
+
